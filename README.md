@@ -49,3 +49,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 20.** Nul ne peut être privé de chocolatine par l'article 19
 
 **Art. 21.** Tout animal doit être traité avec dignité et respect.
+
+**Art. 22.** De la joie et de la bonne humeur toute l'année!
