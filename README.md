@@ -40,9 +40,12 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 17.1** Les dépenses d'administration devront prendre en compte le renouvellement régulier des postes informatiques.
 
-**Art. 18.** La viennoiserie composée de pâte feuilletée fourrée au chocolat
-sera dorénavant connue sous le nom de pain au chocolat.
+**Art. 18.** Tout animal doit être traité avec dignité et respect.
 
-**Art. 19.** Nul ne peut être privé de chocolatine par l'article 18
+**Art. 18.1** Aucune décision ne devra être à l'origine de dégradations environnementales
 
-**Art. 20.** Tout animal doit être traité avec dignité et respect.
+**Art. 19.** La viennoiserie composée de pâte feuilletée fourrée au chocolat sera dorénavant connue sous le nom de pain au chocolat.
+
+**Art. 20.** Nul ne peut être privé de chocolatine par l'article 19
+
+**Art. 21.** Tout animal doit être traité avec dignité et respect.
