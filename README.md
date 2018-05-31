@@ -1,4 +1,4 @@
-# Déclaration des Droits de l'Homme et du Citoyen de 1789
+# Déclaration des Droits de l'Univers et des Etres Vivants
 
 Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
@@ -37,3 +37,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+
+**Art. 17.1** Les dépenses d'administration devront prendre en compte le renouvellement régulier des postes informatiques.
+
+**Art. 18.** Tout animal doit être traité avec dignité et respect.
