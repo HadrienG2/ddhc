@@ -41,6 +41,9 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 17.1** Les dépenses d'administration devront prendre en compte le 
 renouvellement régulier des postes informatiques
 
+**Art. 17.2** En aucun cas les ordinateurs ne devront imposer des décisions contraires à la volonté du peuple. 
+
 **Art. 18.** Tout animal doit être traité avec dignité et respect.
 
 **Art. 18.1** Aucune décision ne devra être à l'origine de dégradations environnementales
+
