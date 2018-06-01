@@ -45,3 +45,5 @@ renouvellement régulier des postes informatiques
 sera dorénavant connue sous le nom de pain au chocolat.
 
 **Art. 19.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
+
+**Art. 19.1** Disons, vraiment super extrêmes, les cas extrêmes.
