@@ -54,11 +54,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 22.** De la joie et de la bonne humeur toute l'année !
 
-**Art. 23.** La viennoiserie composée de pâte feuilletée fourrée au chocolat
-sera dorénavant connue sous le nom de pain au chocolat.
+**Art. 23.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
 
-**Art. 24.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
+**Art. 23.1** Disons, vraiment super extrêmes, les cas extrêmes.
 
-**Art. 24.1** Disons, vraiment super extrêmes, les cas extrêmes.
-
-**Art. 24.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
+**Art. 23.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
