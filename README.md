@@ -59,3 +59,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 23.1** Disons, vraiment super extrêmes, les cas extrêmes.
 
 **Art. 23.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
+
+**Art. 24** Il n'y a pas de droit d'auteur.
