@@ -52,4 +52,12 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 21.** Tout animal doit être traité avec dignité et respect.
 
-**Art. 22.** De la joie et de la bonne humeur toute l'année!
+**Art. 22.** De la joie et de la bonne humeur toute l'année !
+
+**Art. 23.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
+
+**Art. 23.1** Disons, vraiment super extrêmes, les cas extrêmes.
+
+**Art. 23.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
+
+**Art. 24** Il n'y a pas de droit d'auteur.
