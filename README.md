@@ -47,3 +47,5 @@ sera dorénavant connue sous le nom de pain au chocolat.
 **Art. 19.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
 
 **Art. 19.1** Disons, vraiment super extrêmes, les cas extrêmes.
+
+**Art. 19.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
