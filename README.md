@@ -43,3 +43,5 @@ renouvellement régulier des postes informatiques
 
 **Art. 18.** La viennoiserie composée de pâte feuilletée fourrée au chocolat
 sera dorénavant connue sous le nom de pain au chocolat.
+
+**Art. 19.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
