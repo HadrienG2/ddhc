@@ -1,10 +1,10 @@
-# Déclaration des Droits de l'Univers et des Etres Vivants
+# Déclaration des Droits de l'Homme et du Citoyen de 1789
 
-Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs coups droits et leurs revers ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
+Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Citoyen.
 
-**Art. 1er.** Les femmes et les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
@@ -28,7 +28,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
-**Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés financières.
+**Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
 
 **Art. 14.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. 
 
@@ -37,27 +37,3 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
-
-**Art. 17.1** Les dépenses d'administration devront prendre en compte le renouvellement régulier des postes informatiques.
-
-**Art. 17.2** En aucun cas les ordinateurs ne devront imposer des décisions contraires à la volonté du peuple quelque soit l'évolution de l'IA. 
-
-**Art. 18.** Tout animal doit être traité avec dignité et respect.
-
-**Art. 18.1** Aucune décision ne devra être à l'origine de dégradations environnementales
-
-**Art. 19.** La viennoiserie composée de pâte feuilletée fourrée au chocolat sera dorénavant connue sous le nom de pain au chocolat.
-
-**Art. 20.** Nul ne peut être privé de chocolatine par l'article 19
-
-**Art. 21.** Tout animal doit être traité avec dignité et respect.
-
-**Art. 22.** De la joie et de la bonne humeur toute l'année !
-
-**Art. 23.** Il est vraiment interdit d'interdire, sauf cas extrêmes.
-
-**Art. 23.1** Disons, vraiment super extrêmes, les cas extrêmes.
-
-**Art. 23.2** L'extrêmitude des extrêmes est définie par votation à l'Assemblée Nationale.
-
-**Art. 24** Il n'y a pas de droit d'auteur.
