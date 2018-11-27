@@ -21,7 +21,8 @@ l'utilité commune.
 
 **Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.  
 
-**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que le crime soit intollérable à 
+**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soit intollérable 
+à 
 l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.  
