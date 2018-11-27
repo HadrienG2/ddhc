@@ -12,7 +12,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 3.** Le principe de toute Souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
 
-**Art. 3.1** Référendum d'initiative populaire : tout mélange culinaire douteux, tel que les chips au nutella ou la pizza à l'ananas, peut être soumis à référundum national sur l'initiative d'au moins 1 citoyen indigné.
+**Art. 3.1.** Référendum d'initiative populaire : tout mélange culinaire douteux, tel que les chips au nutella ou la pizza à l'ananas, peut être soumis à référundum national sur l'initiative d'au moins 1 citoyen indigné.
 
 **Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
 
@@ -32,7 +32,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi. C'est là ce qu'on appelle la liberté de la presse.
 
-**Art. 11 bis.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
+**Art. 11.1.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
 
 **Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
