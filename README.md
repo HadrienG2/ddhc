@@ -6,6 +6,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 0.** Moi, le Grand René, m'authentifie comme Etre suprême exerçant une autorité inaliénable sur tous les articles ci-après.
 
+**Art. 0.1.** Le véritable Être suprême est le monstre en spaghettis géants, qui nous touche de son appendice nouillesque.
+
 **Art. 1er.** L'ensemble des êtres humains, y compris les enfants, naissent et demeurent libres et égaux en droits.
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
@@ -57,3 +59,5 @@ Les Représentants des gastéropodes à coquille exigent d'être distingués de 
 Ceci est la cheville du pied de page.
 
 Et ceci, c'est le pied du pied de page.
+
+# Ramen
