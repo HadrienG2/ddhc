@@ -6,7 +6,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 0.** Moi, le Grand René, m'authentifie comme Etre suprême exerçant une autorité inaliénable sur tous les articles ci-après.
 
-**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. 
+**Art. 1er.** L'ensemble des êtres humains, y compris les enfants, naissent et demeurent libres et égaux en droits.
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
@@ -22,13 +22,13 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.  
 
-**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soient intolérables à l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
+**Art. 8.1.** Il est cependant possible de revenir sur la rétroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soient intolérables à l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la Loi.  
 
 **Art. 10.** Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la Loi.
 
-**Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
+**Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi. C'est là ce qu'on appelle la liberté de la presse.
 
 **Art. 11 bis.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
 
@@ -36,7 +36,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
 
-**Art. 14.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. 
+**Art. 14.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. L'Etat doit veiller à mettre fin à la fraude fiscale vers la Westphalie et les Nouvelles Antilles.
 
 **Art. 15.** La Société a le droit de demander compte à tout Agent public de son administration.
 
