@@ -38,19 +38,19 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
-**Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
+**Art. 14.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
 
-**Art. 14.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. L'Etat doit veiller à mettre fin à la fraude fiscale vers la Westphalie et les Nouvelles Antilles.
+**Art. 15.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. L'Etat doit veiller à mettre fin à la fraude fiscale vers la Westphalie et les Nouvelles Antilles.
 
-**Art. 15.** La Société a le droit de demander compte à tout Agent public de son administration.
+**Art. 16.** La Société a le droit de demander compte à tout Agent public de son administration.
 
-**Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
+**Art. 17.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
-**Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+**Art. 18.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
 
-**Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes.
+**Art. 19.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes.
 
-**Art. 19.** La crêpe devient le symbole de l'humanité toute entière. C'est bon les crêpes.
+**Art. 20.** La crêpe devient le symbole de l'humanité toute entière. C'est bon les crêpes.
 
 # Des Droits des Escargots Terrestres :snail:
 
