@@ -42,3 +42,4 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 Les Représentants des gastéropodes à coquille exigent d'être distingués des
 limaces et des semi-limaces. 
+Ceci est le pied de page
