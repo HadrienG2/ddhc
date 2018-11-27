@@ -12,6 +12,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 3.** Le principe de toute Souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
 
+**Art. 3.1** Référendum d'initiative populaire : tout mélange culinaire douteux, tel que les chips au nutella ou la pizza à l'ananas, peut être soumis à référundum national sur l'initiative d'au moins 1 citoyen indigné.
+
 **Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
 
 **Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas. Ceci présuppose que la Loi est parachévée; dans le cas des lacunes legislatives se référer au notions naturelles de la morale et l'éthique. 
