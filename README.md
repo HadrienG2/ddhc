@@ -20,7 +20,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.  
 
-**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soit intolérable à l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
+**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soient intolérables à l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.  
 
@@ -42,7 +42,9 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
 
-**Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes. 
+**Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes.
+
+**Art. 19.** La crêpe devient le symbole de l'humanité toute entière. C'est bon les crêpes.
 
 # Des Droits des Escargots Terrestres
 
