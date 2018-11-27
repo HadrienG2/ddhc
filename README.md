@@ -1,45 +1,45 @@
-# Déclaration des Droits de l'Homme et du Citoyen de 1789
+# Dclaration ds Droits d l'Homm t du Citoyn d 1789
 
-Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
+Ls Rprsntants du Pupl Français, constitus n Assmbl National, considrant qu l'ignoranc, l'oubli ou l mpris ds droits d l'Homm sont ls suls causs ds malhurs publics t d la corruption ds Gouvrnmnts, ont rsolu d'xposr, dans un Dclaration solnnll, ls droits naturls, inalinabls t sacrs d l'Homm, afin qu ctt Dclaration, constammnt prsnt à tous ls Mmbrs du corps social, lur rappll sans css lurs droits t lurs dvoirs ; afin qu ls acts du pouvoir lgislatif, t cux du pouvoir xcutif, pouvant tr à chaqu instant compars avc l but d tout institution politiqu, n soint plus rspcts ; afin qu ls rclamations ds citoyns, fonds dsormais sur ds princips simpls t incontstabls, tournnt toujours au maintin d la Constitution t au bonhur d tous.
 
-En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivants de l'Homme et du Citoyen.
+En consqunc, l'Assmbl National rconnaît t dclar ls droits suivants d l'Homm t du Citoyn.
 
-**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1r.** L'nsmbl ds trs humains naissnt t dmurnt librs t gaux n droits. Ls distinctions socials n puvnt tr fonds qu sur l'utilit commun.
 
-**Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
+**Art. 2.** L but d tout association politiqu st la consrvation ds droits naturls t imprscriptibls d l'Homm. Cs droits sont la librt, la proprit, la sûrt, t la rsistanc à l'opprssion.
 
-**Art. 3.** Le principe de toute Souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
+**Art. 3.** L princip d tout Souvraint rsid ssntillmnt dans la Nation. Nul corps, nul individu n put xrcr d'autorit qui n'n man xprssmnt.
 
-**Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
+**Art. 4.** La librt consist à pouvoir fair tout c qui n nuit pas à autrui : ainsi, l'xrcic ds droits naturls d chaqu homm n'a d borns qu clls qui assurnt aux autrs Mmbrs d la Socit la jouissanc d cs mms droits. Cs borns n puvnt tr dtrmins qu par la Loi.
 
-**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.  
+**Art. 5.**  La Loi n'a l droit d dfndr qu ls actions nuisibls à la Socit. Tout c qui n'st pas dfndu par la Loi n put tr mpch, t nul n put tr contraint à fair c qu'll n'ordonn pas.  
 
-**Art. 6.** La Loi est l'expression de la volonté générale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. 
+**Art. 6.** La Loi st l'xprssion d la volont gnral. Tous ls Citoyns ont droit d concourir prsonnllmnt, ou par lurs Rprsntants, à sa formation. Ell doit tr la mm pour tous, soit qu'll protg, soit qu'll puniss. Tous ls Citoyns tant gaux à ss yux sont galmnt admissibls à touts dignits, placs t mplois publics, slon lur capacit, t sans autr distinction qu cll d lurs vrtus t d lurs talnts. 
 
-**Art. 7.** Nul homme ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la Loi, et selon les formes qu'elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires, doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la Loi doit obéir à l'instant : il se rend coupable par la résistance. 
+**Art. 7.** Nul homm n put tr accus, arrt ni dtnu qu dans ls cas dtrmins par la Loi, t slon ls forms qu'll a prscrits. Cux qui sollicitnt, xpdint, xcutnt ou font xcutr ds ordrs arbitrairs, doivnt tr punis ; mais tout citoyn appl ou saisi n vrtu d la Loi doit obir à l'instant : il s rnd coupabl par la rsistanc. 
 
-**Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.  
+**Art. 8.** La Loi n doit tablir qu ds pins strictmnt t vidmmnt ncssairs, t nul n put tr puni qu'n vrtu d'un Loi tabli t promulgu antriurmnt au dlit, t lgalmnt appliqu.  
 
-**Art. 8.1.** Il est cependant possible de revenir sur la retroactivité d'une loi. Pour cela, il est nécessaire que les actes commis soit intolérable à l'humanité entière, et qu'il n'existe pas de loi permettant le jugement de tels actes.
+**Art. 8.1.** Il st cpndant possibl d rvnir sur la rtroactivit d'un loi. Pour cla, il st ncssair qu ls acts commis soit intolrabl à l'humanit ntir, t qu'il n'xist pas d loi prmttant l jugmnt d tls acts.
 
-**Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.  
+**Art. 9.** Tout homm tant prsum innocnt jusqu'à c qu'il ait t dclar coupabl, s'il st jug indispnsabl d l'arrtr, tout riguur qui n srait pas ncssair pour s'assurr d sa prsonn doit tr svrmnt rprim par la loi.  
 
-**Art. 10.** Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la Loi.
+**Art. 10.** Nul n doit tr inquit pour ss opinions, mm rligiuss, pourvu qu lur manifstation n troubl pas l'ordr public tabli par la Loi.
 
-**Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
+**Art. 11.** La libr communication ds pnss t ds opinions st un ds droits ls plus prciux d l'Homm : tout Citoyn put donc parlr, crir, imprimr librmnt, sauf à rpondr d l'abus d ctt librt dans ls cas dtrmins par la Loi.
 
-**Art. 11 bis.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
+**Art. 11 bis.** Afin d pouvoir xrcr plinmnt sa librt d communication, l'accs à la fibr optiqu st un droit inalinabl. Vraimnt. Donnz-moi un bon dbit svp
 
-**Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
+**Art. 12.** La garanti ds droits d l'Homm t du Citoyn ncssit un forc publiqu : ctt forc st donc institu pour l'avantag d tous, t non pour l'utilit particulir d cux auxquls ll st confi.
 
-**Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
+**Art. 13.** Pour l'ntrtin d la forc publiqu, t pour ls dpnss d'administration, un contribution commun st indispnsabl : ll doit tr galmnt rparti ntr tous ls citoyns, n raison d lurs facults.
 
-**Art. 14.** Tous les Citoyens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. 
+**Art. 14.** Tous ls Citoyns ont l droit d constatr, par ux-mms ou par lurs rprsntants, la ncssit d la contribution publiqu, d la consntir librmnt, d'n suivr l'mploi, t d'n dtrminr la quotit, l'assitt, l rcouvrmnt t la dur. 
 
-**Art. 15.** La Société a le droit de demander compte à tout Agent public de son administration.
+**Art. 15.** La Socit a l droit d dmandr compt à tout Agnt public d son administration.
 
-**Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
+**Art. 16.** Tout Socit dans laqull la garanti ds Droits n'st pas assur, ni la sparation ds Pouvoirs dtrmin, n'a point d Constitution.
 
-**Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+**Art. 17.** La proprit tant un droit inviolabl t sacr, nul n put n tr priv, si c n'st lorsqu la ncssit publiqu, lgalmnt constat, l'xig vidmmnt, t sous la condition d'un just t pralabl indmnit.
 
-Ceci est le pied de page
+Cci st l pid d pag
