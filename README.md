@@ -48,4 +48,6 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 Les Représentants des gastéropodes à coquille exigent d'être distingués de limaces et des semi-limaces.
 
-Ceci est le pied de page
+Ceci est le pied de page.
+
+Et ceci, c'est le pied du pied de page.
