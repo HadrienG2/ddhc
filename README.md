@@ -60,4 +60,6 @@ Ceci est la cheville du pied de page.
 
 Et ceci, c'est le pied du pied de page.
 
+Le version moderne de l'NU on peut trouver [ici](UN-declaration.md)
+
 # Ramen
