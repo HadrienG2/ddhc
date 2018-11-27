@@ -47,5 +47,9 @@ Ceci n'est pas un pied de page
 =======
 **Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes. 
 
+# Des Droits des Escargots Terrestres
+
+Les Représentants des gastéropodes à coquille exigent d'être distingués de limaces et des semi-limaces.
+
 Ceci est le pied de page
 >>>>>>> 8beaebab2a6289a507236407d2207c23f74d562e
