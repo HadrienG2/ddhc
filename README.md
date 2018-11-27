@@ -44,4 +44,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes. 
 
+# Des Droits des Escargots Terrestres
+
+Les Représentants des gastéropodes à coquille exigent d'être distingués de limaces et des semi-limaces.
+
 Ceci est le pied de page
