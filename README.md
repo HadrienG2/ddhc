@@ -4,7 +4,7 @@ Les Représentants du Peuple Français, constitués en Assemblée Nationale, con
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivants de l'Homme et du Citoyen.
 
-**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. 
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
@@ -12,7 +12,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
 
-**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.  
+**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas. Ceci présuppose que la loi est parachévée; dans le cas des lacunes legislatives se référer au notions naturelles de la morale et l'éthique. 
 
 **Art. 6.** La Loi est l'expression de la volonté générale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. 
 
