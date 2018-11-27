@@ -4,6 +4,8 @@ Les Représentants du Peuple Français, constitués en Assemblée Nationale, con
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivants de l'Homme et du Citoyen.
 
+**Art. 0.** Moi, le Grand René, m'authentifie comme Etre suprême exerçant une autorité inaliénable sur tous les articles ci-après.
+
 **Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. 
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
