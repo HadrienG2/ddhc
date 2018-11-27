@@ -6,7 +6,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 0** Moi, le Grand René, m'authentifie comme Etre suprême exerçant une autorité inaliénable sur tous les articles ci-après.
 
-**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** L'ensemble des êtres humains naissent et demeurent libres et égaux en droits. 
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
@@ -14,7 +14,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
 
-**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.  
+**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas. Ceci présuppose que la loi est parachévée; dans le cas des lacunes legislatives se référer au notions naturelles de la morale et l'éthique. 
 
 **Art. 6.** La Loi est l'expression de la volonté générale. Tous les Citoyens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les Citoyens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. 
 
@@ -30,6 +30,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
 
+**Art. 11 bis.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
+
 **Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
 **Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
@@ -44,4 +46,10 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 
 **Art. 18.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes. 
 
-Ceci est le pied de page
+# Des Droits des Escargots Terrestres
+
+Les Représentants des gastéropodes à coquille exigent d'être distingués de limaces et des semi-limaces.
+
+Ceci est la cheville du pied de page.
+
+Et ceci, c'est le pied du pied de page.
