@@ -1,4 +1,4 @@
-# Déclaration des Droits de l'Homme et du Citoyen du cours de versions distribuées GIT de novembre 2018
+# :fr: Déclaration des Droits de l'Homme et du Citoyen du cours de versions distribuées GIT de novembre 2018 :fr:
 
 Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
@@ -37,6 +37,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare les droits suivan
 **Art. 11.1.** Afin de pouvoir exercer pleinement sa liberté de communication, l'accès à la fibre optique est un droit inaliénable. Vraiment. Donnez-moi un bon débit svp
 
 **Art. 12.** La garantie des droits de l'Homme et du Citoyen nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
+
+**Art. fractal.** Le second prénom de Beniot B Mandelbrot est Benoit B MandelBrot
 
 **Art. 14.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les citoyens, en raison de leurs facultés.
 
