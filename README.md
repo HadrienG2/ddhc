@@ -22,6 +22,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi.  
 
+**Art. 9bis. ** Lapalice n'aurait pas dit mieux.
+
 **Art. 10.** Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la Loi.
 
 **Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Citoyen peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
