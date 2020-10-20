@@ -42,4 +42,6 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 18.** Il est interdit de reprocher à quelqu'un d'appeler une tomate un légume (et non un fruit).
 
+**Art. 19.** Les animaux naissent libres et égaux en droits en tous points comme les hommes et les femmes.
+
 Ceci n'est pas un pied de page
