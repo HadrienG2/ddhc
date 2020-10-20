@@ -4,7 +4,7 @@ Les Représentants du Peuple Français, constitués en Assemblée Nationale, con
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Citoyen.
 
-**Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** Les femmes et hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
 **Art. 1er. bis** Tout débat concernant les noms de viennoiseries sont jugés contraires au maintien de la paix mondiale.
 
@@ -39,5 +39,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+
+**Art. 18.** Il est interdit de reprocher à quelqu'un d'appeler une tomate un légume (et non un fruit).
 
 Ceci n'est pas un pied de page
