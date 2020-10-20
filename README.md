@@ -4,7 +4,7 @@ Les Représentants du Peuple Français, constitués en Assemblée Nationale, con
 
 En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Citoyen.
 
-**Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** Les femmes et hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
 **Art. 1er. bis** Tout débat concernant les noms de viennoiseries sont jugés contraires au maintien de la paix mondiale.
 
