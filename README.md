@@ -44,4 +44,4 @@ Ceci n'est toujours pas un pied de page!
 
 Ceci est le prochain test de pied de page.
 
- Il convient d'accepter ce pied de page, décidé par un vote !
+Il convient d'accepter ce pied de page, décidé par un vote !
