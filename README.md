@@ -41,3 +41,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 Ceci n'est pas un pied de page
 
 Ceci n'est toujours pas un pied de page!
+
+ Il convient d'accepter ce pied de page, décidé par un vote !
