@@ -44,3 +44,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
 **Art. 17.** La propriété d'usage étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. En particulier, la propriété d'usage primera toujours sur la propriété privée, ce qui rend de fait illégal toute tentative d'appropriation d'un bien commun, par exemple en demandant un loyer en échange de son utilisation.
+
+ Un chien ne devrait jamais mordre son maitre ni l'épouse de son maitre mais il peut mordre son fils s'il est chiant.
