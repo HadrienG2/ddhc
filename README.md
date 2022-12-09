@@ -9,7 +9,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 0.** La langue officielle est l'italien
 
-**Art. 1. ** Tutto il resto non ha senso
+**Art. 1.** Tutto il resto non ha senso
 
 **Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
