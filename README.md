@@ -26,7 +26,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux du Chercheur : tout ITA peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
 
-**Art. 12.** La garantie des droits de l'Chercheur et des ITAs nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
+**Art. 12.** La garantie des droits du Chercheur et des ITAs nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
 **Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les ITAs, en raison de leurs facultés.
 
