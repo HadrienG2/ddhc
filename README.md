@@ -10,7 +10,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
-**Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
+**Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme et du chien. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
 **Art. 3.** Le principe de toute Souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
 
@@ -42,3 +42,4 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
 
+Ceci n'est pas un pied de page
