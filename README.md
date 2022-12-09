@@ -1,44 +1,87 @@
-Preambule
-# Déclaration des Droits de l'Homme et du Chien de 1789
+elubmaerP
 
-La Déclaration de 1789 est une norme de référence du contrôle de constitutionnalité exercé par le Conseil constitutionnel (décisions n os71-44 DC du 16 juillet 1971 et 73-51 DC du 27 décembre 1973). C'est dire que les droits et principes définis en 1789 ont « pleine valeur constitutionnelle » (décision n° 81-132 DC du 16 janvier 1982).
+9871 ed neihC ud te emmoH'l ed stiorD sed noitaralcéD #
 
-Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des Chiens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
-En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Chien.
 
-**Art. 1er.** Les hommes et les chiens naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+.)2891 reivnaj 61 ud CD 231-18 °n noisicéd( » ellennoitutitsnoc ruelav enielp « tno 9871 ne siniféd sepicnirp te stiord sel euq erid tse'C .)3791 erbmecéd 72 ud CD 15-37 te 1791 telliuj 61 ud CD 44-17so n snoisicéd( lennoitutitsnoc liesnoC el rap écrexe étilannoitutitsnoc ed elôrtnoc ud ecneréfér ed emron enu tse 9871 ed noitaralcéD aL
 
-**Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme et du chien. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
-**Art. 3.** Le principe de toute Souveraineté réside essentiellement dans la Nation. Nul corps, nul individu ne peut exercer d'autorité qui n'en émane expressément.
 
-**Art. 4.** La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui : ainsi, l'exercice des droits naturels de chaque homme n'a de bornes que celles qui assurent aux autres Membres de la Société la jouissance de ces mêmes droits. Ces bornes ne peuvent être déterminées que par la Loi.
+.suot ed ruehnob ua te noitutitsnoC al ed neitniam ua sruojuot tnenruot ,selbatsetnocni te selpmis sepicnirp sed rus siamroséd seédnof ,sneihC sed snoitamalcér sel euq nifa ; sétcepser sulp tneios ne ,euqitilop noitutitsni etuot ed tub el ceva sérapmoc tnatsni euqahc à ertê tnavuop ,fitucéxe riovuop ud xuec te ,fitalsigél riovuop ud setca sel euq nifa ; srioved sruel te stiord sruel essec snas elleppar ruel ,laicos sproc ud serbmeM sel suot à etnesérp tnemmatsnoc ,noitaralcéD ettec euq nifa ,emmoH'l ed sércas te selbanéilani ,slerutan stiord sel ,ellennelos noitaralcéD enu snad ,resopxe'd ulosér tno ,stnemenrevuoG sed noitpurroc al ed te scilbup sruehlam sed sesuac selues sel tnos emmoH'l ed stiord sed sirpém el uo ilbuo'l ,ecnarongi'l euq tnarédisnoc ,elanoitaN eélbmessA ne séutitsnoc ,siaçnarF elpueP ud stnatnesérpeR seL
 
-**Art. 5.**  La Loi n'a le droit de défendre que les actions nuisibles à la Société. Tout ce qui n'est pas défendu par la Loi ne peut être empêché, et nul ne peut être contraint à faire ce qu'elle n'ordonne pas.
 
-**Art. 6.** La Loi est l'expression de la volonté générale. Tous les Chiens ont droit de concourir personnellement, ou par leurs Représentants, à sa formation. Elle doit être la même pour tous, soit qu'elle protège, soit qu'elle punisse. Tous les Chiens étant égaux à ses yeux sont également admissibles à toutes dignités, places et emplois publics, selon leur capacité, et sans autre distinction que celle de leurs vertus et de leurs talents. 
 
-**Art. 7.** Nul homme ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la Loi, et selon les formes qu'elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires, doivent être punis ; mais tout Chien appelé ou saisi en vertu de la Loi doit obéir à l'instant : il se rend coupable par la résistance. 
+.neihC ud te emmoH'l ed stnavius stiord sel ,emêrpus ertE'l ed secipsua sel suos te ecnesérp ne ,eralcéd te tîannocer elanoitaN eélbmessA'l ,ecneuqésnoc nE
 
-**Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.
 
-**Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la Loi.
 
-**Art. 10.** Nul ne doit être inquiété pour ses opinions, même religieuses, pourvu que leur manifestation ne trouble pas l'ordre public établi par la Loi.
+.enummoc étilitu'l rus euq seédnof ertê tnevuep en selaicos snoitcnitsid seL .stiord ne xuagé te serbil tneruemed te tnessian sneihc sel te semmoh seL **.re1 .trA**
 
-**Art. 11.** La libre communication des pensées et des opinions est un des droits les plus précieux de l'Homme : tout Chien peut donc parler, écrire, imprimer librement, sauf à répondre de l'abus de cette liberté dans les cas déterminés par la Loi.
 
-**Art. 12.** La garantie des droits de l'Homme et du Chien nécessite une force publique : cette force est donc instituée pour l'avantage de tous, et non pour l'utilité particulière de ceux auxquels elle est confiée.
 
-**Art. 13.** Pour l'entretien de la force publique, et pour les dépenses d'administration, une contribution commune est indispensable : elle doit être également répartie entre tous les Chiens, en raison de leurs facultés.
+.noisserppo'l à ecnatsisér al te ,éterûs al ,étéirporp al ,étrebil al tnos stiord seC .neihc ud te emmoH'l ed selbitpircserpmi te slerutan stiord sed noitavresnoc al tse euqitilop noitaicossa etuot ed tub eL **.2 .trA**
 
-**Art. 14.** Tous les Chiens ont le droit de constater, par eux-mêmes ou par leurs représentants, la nécessité de la contribution publique, de la consentir librement, d'en suivre l'emploi, et d'en déterminer la quotité, l'assiette, le recouvrement et la durée. 
 
-**Art. 15.** La Société a le droit de demander compte à tout Agent public de son administration.
 
-**Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
+.tnemésserpxe enamé ne'n iuq étirotua'd recrexe tuep en udividni lun ,sproc luN .noitaN al snad tnemelleitnesse edisér éteniarevuoS etuot ed epicnirp eL **.3 .trA**
 
-**Art. 17.** La propriété d'usage étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité. En particulier, la propriété d'usage primera toujours sur la propriété privée, ce qui rend de fait illégal toute tentative d'appropriation d'un bien commun, par exemple en demandant un loyer en échange de son utilisation.
 
- Un chien ne devrait jamais mordre son maitre ni l'épouse de son maitre mais il peut mordre son fils s'il est chiant.
+
+.ioL al rap euq seénimretéd ertê tnevuep en senrob seC .stiord semêm sec ed ecnassiuoj al étéicoS al ed serbmeM sertua xua tnerussa iuq sellec euq senrob ed a'n emmoh euqahc ed slerutan stiord sed ecicrexe'l ,isnia : iurtua à sap tiun en iuq ec tuot eriaf riovuop à etsisnoc étrebil aL **.4 .trA**
+
+
+
+.sap ennodro'n elle'uq ec eriaf à tniartnoc ertê tuep en lun te ,éhcêpme ertê tuep en ioL al rap udneféd sap tse'n iuq ec tuoT .étéicoS al à selbisiun snoitca sel euq erdneféd ed tiord el a'n ioL aL  **.5 .trA**
+
+
+
+ .stnelat sruel ed te sutrev sruel ed ellec euq noitcnitsid ertua snas te ,éticapac ruel noles ,scilbup siolpme te secalp ,sétingid setuot à selbissimda tnemelagé tnos xuey ses à xuagé tnaté sneihC sel suoT .essinup elle'uq tios ,egètorp elle'uq tios ,suot ruop emêm al ertê tiod ellE .noitamrof as à ,stnatnesérpeR sruel rap uo ,tnemellennosrep riruocnoc ed tiord tno sneihC sel suoT .elarénég étnolov al ed noisserpxe'l tse ioL aL **.6 .trA**
+
+
+
+ .ecnatsisér al rap elbapuoc dner es li : tnatsni'l à riébo tiod ioL al ed utrev ne isias uo éleppa neihC tuot siam ; sinup ertê tneviod ,seriartibra serdro sed retucéxe tnof uo tnetucéxe ,tneidépxe ,tneticillos iuq xueC .setircserp a elle'uq semrof sel noles te ,ioL al rap sénimretéd sac sel snad euq unetéd in étêrra ,ésucca ertê tuep en emmoh luN **.7 .trA**
+
+
+
+.eéuqilppa tnemelagél te ,tiléd ua tnemerueirétna eéuglumorp te eilbaté ioL enu'd utrev ne'uq inup ertê tuep en lun te ,seriassecén tnemmedivé te tnemetcirts seniep sed euq rilbaté tiod en ioL aL **.8 .trA**
+
+
+
+.ioL al rap eémirpér tnemerèvés ertê tiod ennosrep as ed rerussa's ruop eriassecén sap tiares en iuq rueugir etuot ,retêrra'l ed elbasnepsidni éguj tse li's ,elbapuoc éralcéd été tia li'uq ec à'uqsuj tneconni émusérp tnaté emmoh tuoT **.9 .trA**
+
+
+
+.ioL al rap ilbaté cilbup erdro'l sap elbuort en noitatsefinam ruel euq uvruop ,sesueigiler emêm ,snoinipo ses ruop étéiuqni ertê tiod en luN **.01 .trA**
+
+
+
+.ioL al rap sénimretéd sac sel snad étrebil ettec ed suba'l ed erdnopér à fuas ,tnemerbil remirpmi ,erircé ,relrap cnod tuep neihC tuot : emmoH'l ed xueicérp sulp sel stiord sed nu tse snoinipo sed te seésnep sed noitacinummoc erbil aL **.11 .trA**
+
+
+
+.eéifnoc tse elle sleuqxua xuec ed erèilucitrap étilitu'l ruop non te ,suot ed egatnava'l ruop eéutitsni cnod tse ecrof ettec : euqilbup ecrof enu etissecén neihC ud te emmoH'l ed stiord sed eitnarag aL **.21 .trA**
+
+
+
+.sétlucaf sruel ed nosiar ne ,sneihC sel suot ertne eitrapér tnemelagé ertê tiod elle : elbasnepsidni tse enummoc noitubirtnoc enu ,noitartsinimda'd sesnepéd sel ruop te ,euqilbup ecrof al ed neitertne'l ruoP **.31 .trA**
+
+
+
+ .eérud al te tnemervuocer el ,etteissa'l ,étitouq al renimretéd ne'd te ,iolpme'l ervius ne'd ,tnemerbil ritnesnoc al ed ,euqilbup noitubirtnoc al ed étissecén al ,stnatnesérper sruel rap uo semêm-xue rap ,retatsnoc ed tiord el tno sneihC sel suoT **.41 .trA**
+
+
+
+.noitartsinimda nos ed cilbup tnegA tuot à etpmoc rednamed ed tiord el a étéicoS aL **.51 .trA**
+
+
+
+.noitutitsnoC ed tniop a'n ,eénimretéd sriovuoP sed noitarapés al in ,eérussa sap tse'n stiorD sed eitnarag al elleuqal snad étéicoS etuoT **.61 .trA**
+
+
+
+.noitasilitu nos ed egnahcé ne reyol nu tnadnamed ne elpmexe rap ,nummoc neib nu'd noitairporppa'd evitatnet etuot lagélli tiaf ed dner iuq ec ,eévirp étéirporp al rus sruojuot aremirp egasu'd étéirporp al ,reilucitrap nE .étinmedni elbalaérp te etsuj enu'd noitidnoc al suos te ,tnemmedivé egixe'l ,eétatsnoc tnemelagél ,euqilbup étissecén al euqsrol tse'n ec is ,évirp ertê ne tuep en lun ,ércas te elbaloivni tiord nu tnaté egasu'd étéirporp aL **.71 .trA**
+
+
+
+.tnaihc tse li's slif nos erdrom tuep li siam ertiam nos ed esuopé'l in ertiam nos erdrom siamaj tiarved en neihc nU
