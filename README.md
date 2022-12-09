@@ -1,7 +1,7 @@
 Preambule
-# Déclaration des Droits de l'Homme et du Chien de 1789
+# Déclaration des Droits de l'Homme et du Chien de 2022
 
-La Déclaration de 1789 est une norme de référence du contrôle de constitutionnalité exercé par le Conseil constitutionnel (décisions n os71-44 DC du 16 juillet 1971 et 73-51 DC du 27 décembre 1973). C'est dire que les droits et principes définis en 1789 ont « pleine valeur constitutionnelle » (décision n° 81-132 DC du 16 janvier 1982).
+La Déclaration de 2022 est une norme de référence du contrôle de constitutionnalité exercé par le Conseil constitutionnel (décisions n os71-44 DC du 16 juillet 1971 et 73-51 DC du 27 décembre 1973). C'est dire que les droits et principes définis en 2022 ont « pleine valeur constitutionnelle » (décision n° 81-132 DC du 16 janvier 1982).
 
 Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des Chiens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
