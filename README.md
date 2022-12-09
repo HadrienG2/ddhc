@@ -1,3 +1,4 @@
+Preambule
 # Déclaration des Droits de l'Homme et du Chien de 1789
 
 La Déclaration de 1789 est une norme de référence du contrôle de constitutionnalité exercé par le Conseil constitutionnel (décisions n os71-44 DC du 16 juillet 1971 et 73-51 DC du 27 décembre 1973). C'est dire que les droits et principes définis en 1789 ont « pleine valeur constitutionnelle » (décision n° 81-132 DC du 16 janvier 1982).
