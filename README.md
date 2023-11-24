@@ -40,6 +40,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
 
+**Art. 18.** Afin de respecter les droits de toutes les personnes, pain au chocolat / chocolatine sera renommé painine au chocolat. 
+
 Ceci n'est pas un pied de biche
 Ceci n'est pas un pied de page
 Ceci est un ajout caramel rebelle
