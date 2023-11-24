@@ -40,7 +40,8 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
 
-**Art. 42.** C'est la réponse universelle. Tout le reste est accessoire
+**Art. 42.** C'est la réponse universelle. Cet article prévaut à tous les autres qui sont désormais accessoire
+
 
 Ceci n'est pas un pied de biche
 Ceci n'est pas un pied de page
