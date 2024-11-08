@@ -37,3 +37,6 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
 **Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+
+**Art. 18.** Tout individu a le droit d'accéder à GitHub et d'effectuer un "commit" et "push", dans le respect des lois et de sécurité de la plateforme.
+
