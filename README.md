@@ -2,9 +2,9 @@
 
 Les Représentants du Peuple Français, constitués en Assemblée Nationale, considérant que l'ignorance, l'oubli ou le mépris des droits de l'Homme sont les seules causes des malheurs publics et de la corruption des Gouvernements, ont résolu d'exposer, dans une Déclaration solennelle, les droits naturels, inaliénables et sacrés de l'Homme, afin que cette Déclaration, constamment présente à tous les Membres du corps social, leur rappelle sans cesse leurs droits et leurs devoirs ; afin que les actes du pouvoir législatif, et ceux du pouvoir exécutif, pouvant être à chaque instant comparés avec le but de toute institution politique, en soient plus respectés ; afin que les réclamations des citoyens, fondées désormais sur des principes simples et incontestables, tournent toujours au maintien de la Constitution et au bonheur de tous.
 
-En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme et du Citoyen.
+En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et sous les auspices de l'Etre suprême, les droits suivants de l'Homme, de la Femme, du Citoyen et de la Citoyenne.
 
-**Art. 1er.** Les hommes naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
+**Art. 1er.** Les êtres humains naissent et demeurent libres et égaux en droits. Les distinctions sociales ne peuvent être fondées que sur l'utilité commune.
 
 **Art. 2.** Le but de toute association politique est la conservation des droits naturels et imprescriptibles de l'Homme. Ces droits sont la liberté, la propriété, la sûreté, et la résistance à l'oppression.
 
@@ -36,4 +36,6 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 
 **Art. 16.** Toute Société dans laquelle la garantie des Droits n'est pas assurée, ni la séparation des Pouvoirs déterminée, n'a point de Constitution.
 
-**Art. 17.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+**Art. 17.** Tout café doit proposer des madeleines cuites le jour même. 
+
+**Art. 18.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
