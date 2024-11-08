@@ -19,6 +19,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 7.** Nul homme ne peut être accusé, arrêté ni détenu que dans les cas déterminés par la Loi, et selon les formes qu'elle a prescrites. Ceux qui sollicitent, expédient, exécutent ou font exécuter des ordres arbitraires, doivent être punis ; mais tout citoyen appelé ou saisi en vertu de la Loi doit obéir à l'instant : il se rend coupable par la résistance. 
 
 **Art. 8.** La Loi ne doit établir que des peines strictement et évidemment nécessaires, et nul ne peut être puni qu'en vertu d'une Loi établie et promulguée antérieurement au délit, et légalement appliquée.  
+Cet article fera obligatoirement l'objet d'une révision en cas d'invention d'une machine à voyager dans le temps.
 
 **Art. 9.** Tout homme étant présumé innocent jusqu'à ce qu'il ait été déclaré coupable, s'il est jugé indispensable de l'arrêter, toute rigueur qui ne serait pas nécessaire pour s'assurer de sa personne doit être sévèrement réprimée par la loi. La seule exception s'applique aux hommes qui cassent les spaghettis en deux avant de les placer dans l'eau bouillante. 
 
