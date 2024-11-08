@@ -43,3 +43,5 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 99. Déclaration des droits des Lapins
 
 Ceci n'est pas un pied de page
+
+**Art. 99. Déclaration des droits des Lapins
