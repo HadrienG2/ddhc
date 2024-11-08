@@ -39,3 +39,7 @@ En conséquence, l'Assemblée Nationale reconnaît et déclare, en présence et 
 **Art. 17.** Tout café doit proposer des madeleines cuites le jour même. 
 
 **Art. 18.** La propriété étant un droit inviolable et sacré, nul ne peut en être privé, si ce n'est lorsque la nécessité publique, légalement constatée, l'exige évidemment, et sous la condition d'une juste et préalable indemnité.
+
+**Art. 99. Déclaration des droits des Lapins
+
+Ceci n'est pas un pied de page
